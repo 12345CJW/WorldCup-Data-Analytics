@@ -1,0 +1,832 @@
+WC_year,ID,Team,WC_Group,Position,Player,Bdate,Age,Caps,Goals,WC_Goals,League,Club
+2022,1,Ecuador,A,Goalkeeper,Hernán Galíndez,,35,12,0,0,Ecuador,Aucas
+2022,2,Ecuador,A,Defender,Félix Torres,,25,17,2,0,Mexico,Santos Laguna
+2022,3,Ecuador,A,Defender,Piero Hincapié,,20,21,1,0,Germany,Bayer Leverkusen
+2022,4,Ecuador,A,Defender,Robert Arboleda,,31,33,2,0,Brazil,São Paulo
+2022,5,Ecuador,A,Midfielder,José Cifuentes,,23,11,0,0,United States,Los Angeles FC
+2022,6,Ecuador,A,Defender,William Pacho,,21,0,0,0,Belgium,Antwerp
+2022,7,Ecuador,A,Defender,Pervis Estupiñán,,24,28,3,0,England,Brighton & Hove Albion
+2022,8,Ecuador,A,Midfielder,Carlos Gruezo,,27,45,1,0,Germany,FC Augsburg
+2022,9,Ecuador,A,Midfielder,Ayrton Preciado,,28,25,3,0,Mexico,Santos Laguna
+2022,10,Ecuador,A,Midfielder,Romario Ibarra,,28,25,3,0,Mexico,Pachuca
+2022,11,Ecuador,A,Forward,Michael Estrada,,26,35,8,0,Mexico,Cruz Azul
+2022,12,Ecuador,A,Goalkeeper,Moisés Ramírez,,22,2,0,0,Ecuador,Independiente del Valle
+2022,13,Ecuador,A,Forward,Enner Valencia (captain),,33,74,35,3,Turkey,Fenerbahçe
+2022,14,Ecuador,A,Defender,Xavier Arreaga,,28,18,1,0,United States,Seattle Sounders FC
+2022,15,Ecuador,A,Midfielder,Ángel Mena,,34,46,7,0,Mexico,León
+2022,16,Ecuador,A,Midfielder,Jeremy Sarmiento,,20,9,0,0,England,Brighton & Hove Albion
+2022,17,Ecuador,A,Defender,Ángelo Preciado,,24,25,0,0,Belgium,Genk
+2022,18,Ecuador,A,Defender,Diego Palacios,,23,12,0,0,United States,Los Angeles FC
+2022,19,Ecuador,A,Midfielder,Gonzalo Plata,,22,30,5,0,Spain,Valladolid
+2022,20,Ecuador,A,Midfielder,Sebas Méndez,,25,32,0,0,United States,Los Angeles FC
+2022,21,Ecuador,A,Midfielder,Alan Franco,,24,25,1,0,Argentina,Talleres
+2022,22,Ecuador,A,Goalkeeper,Alexander Domínguez,,35,68,0,0,Ecuador,LDU Quito
+2022,23,Ecuador,A,Midfielder,Moisés Caicedo,,21,25,2,0,England,Brighton & Hove Albion
+2022,24,Ecuador,A,Forward,Djorkaeff Reasco,,23,4,0,0,Argentina,Newell's Old Boys
+2022,25,Ecuador,A,Defender,Jackson Porozo,,22,5,0,0,France,Troyes
+2022,26,Ecuador,A,Forward,Kevin Rodríguez,,22,1,0,0,Ecuador,Imbabura
+2022,27,Netherlands,A,Goalkeeper,Remko Pasveer,,39,2,0,0,Netherlands,Ajax
+2022,28,Netherlands,A,Defender,Jurriën Timber,,21,10,0,0,Netherlands,Ajax
+2022,29,Netherlands,A,Defender,Matthijs de Ligt,,23,38,2,0,Germany,Bayern Munich
+2022,30,Netherlands,A,Defender,Virgil van Dijk (captain),,31,49,6,0,England,Liverpool
+2022,31,Netherlands,A,Defender,Nathan Aké,,27,29,3,0,England,Manchester City
+2022,32,Netherlands,A,Defender,Stefan de Vrij,,30,59,3,1,Italy,Internazionale
+2022,33,Netherlands,A,Forward,Steven Bergwijn,,25,24,7,0,Netherlands,Ajax
+2022,34,Netherlands,A,Forward,Cody Gakpo,,23,9,3,0,Netherlands,PSV Eindhoven
+2022,35,Netherlands,A,Forward,Luuk de Jong,,32,38,8,0,Netherlands,PSV Eindhoven
+2022,36,Netherlands,A,Forward,Memphis Depay,,28,81,42,2,Spain,Barcelona
+2022,37,Netherlands,A,Midfielder,Steven Berghuis,,30,39,2,0,Netherlands,Ajax
+2022,38,Netherlands,A,Forward,Noa Lang,,23,5,1,0,Belgium,Club Brugge
+2022,39,Netherlands,A,Goalkeeper,Justin Bijlow,,24,6,0,0,Netherlands,Feyenoord
+2022,40,Netherlands,A,Midfielder,Davy Klaassen,,29,35,9,0,Netherlands,Ajax
+2022,41,Netherlands,A,Midfielder,Marten de Roon,,31,30,0,0,Italy,Atalanta
+2022,42,Netherlands,A,Defender,Tyrell Malacia,,23,6,0,0,England,Manchester United
+2022,43,Netherlands,A,Defender,Daley Blind,,32,94,2,1,Netherlands,Ajax
+2022,44,Netherlands,A,Forward,Vincent Janssen,,28,20,7,0,Belgium,Antwerp
+2022,45,Netherlands,A,Forward,Wout Weghorst,,30,15,3,0,Turkey,Be?ikta?
+2022,46,Netherlands,A,Midfielder,Teun Koopmeiners,,24,10,1,0,Italy,Atalanta
+2022,47,Netherlands,A,Midfielder,Frenkie de Jong,,25,45,1,0,Spain,Barcelona
+2022,48,Netherlands,A,Defender,Denzel Dumfries,,26,37,5,0,Italy,Internazionale
+2022,49,Netherlands,A,Goalkeeper,Andries Noppert,,28,0,0,0,Netherlands,Heerenveen
+2022,50,Netherlands,A,Midfielder,Kenneth Taylor,,20,2,0,0,Netherlands,Ajax
+2022,51,Netherlands,A,Midfielder,Xavi Simons,,19,0,0,0,Netherlands,PSV Eindhoven
+2022,52,Netherlands,A,Defender,Jeremie Frimpong,,21,0,0,0,Germany,Bayer Leverkusen
+2022,53,Qatar,A,Goalkeeper,Saad Al-Sheeb,,32,76,0,0,Qatar,Al-Sadd
+2022,54,Qatar,A,Defender,Ró-Ró,,32,80,1,0,Qatar,Al-Sadd
+2022,55,Qatar,A,Midfielder,Abdelkarim Hassan,,29,130,15,0,Qatar,Al-Sadd
+2022,56,Qatar,A,Defender,Mohammed Waad,,23,21,0,0,Qatar,Al-Sadd
+2022,57,Qatar,A,Defender,Tarek Salman,,24,58,0,0,Qatar,Al-Sadd
+2022,58,Qatar,A,Midfielder,Abdulaziz Hatem,,32,107,11,0,Qatar,Al-Rayyan
+2022,59,Qatar,A,Forward,Ahmed Alaaeldin,,29,47,2,0,Qatar,Al-Gharafa
+2022,60,Qatar,A,Midfielder,Ali Assadalla,,29,59,12,0,Qatar,Al-Sadd
+2022,61,Qatar,A,Forward,Mohammed Muntari,,28,48,13,0,Qatar,Al-Duhail
+2022,62,Qatar,A,Midfielder,Hassan Al-Haydos (captain),,31,169,36,0,Qatar,Al-Sadd
+2022,63,Qatar,A,Forward,Akram Afif,,26,89,26,0,Qatar,Al-Sadd
+2022,64,Qatar,A,Midfielder,Karim Boudiaf,,32,115,6,0,Qatar,Al-Duhail
+2022,65,Qatar,A,Defender,Musab Kheder,,29,30,0,0,Qatar,Al-Sadd
+2022,66,Qatar,A,Defender,Homam Ahmed,,23,29,2,0,Qatar,Al-Gharafa
+2022,67,Qatar,A,Defender,Bassam Al-Rawi,,24,58,2,0,Qatar,Al-Duhail
+2022,68,Qatar,A,Defender,Boualem Khoukhi,,32,105,20,0,Qatar,Al-Sadd
+2022,69,Qatar,A,Defender,Ismaeel Mohammad,,32,70,4,0,Qatar,Al-Duhail
+2022,70,Qatar,A,Forward,Khalid Muneer,,24,2,0,0,Qatar,Al-Wakrah
+2022,71,Qatar,A,Forward,Almoez Ali,,26,85,42,0,Qatar,Al-Duhail
+2022,72,Qatar,A,Midfielder,Salem Al-Hajri,,26,22,0,0,Qatar,Al-Sadd
+2022,73,Qatar,A,Goalkeeper,Yousef Hassan,,26,7,0,0,Qatar,Al-Gharafa
+2022,74,Qatar,A,Goalkeeper,Meshaal Barsham,,24,20,0,0,Qatar,Al-Sadd
+2022,75,Qatar,A,Midfielder,Assim Madibo,,26,43,0,0,Qatar,Al-Duhail
+2022,76,Qatar,A,Midfielder,Naif Al-Hadhrami,,21,1,0,0,Qatar,Al-Rayyan
+2022,77,Qatar,A,Midfielder,Jassem Gaber,,20,0,0,0,Qatar,Al-Arabi
+2022,78,Qatar,A,Midfielder,Mostafa Meshaal,,21,1,0,0,Qatar,Al-Sadd
+2022,79,Senegal,A,Goalkeeper,Édouard Mendy,,30,25,0,0,England,Chelsea
+2022,80,Senegal,A,Defender,Ismail Jakobs,,23,2,0,0,France,Monaco
+2022,81,Senegal,A,Defender,Kalidou Koulibaly (captain),,31,64,0,0,England,Chelsea
+2022,82,Senegal,A,Defender,Abdou Diallo,,26,18,2,0,Germany,RB Leipzig
+2022,83,Senegal,A,Midfielder,Idrissa Gueye,,33,96,7,0,England,Everton
+2022,84,Senegal,A,Midfielder,Nampalys Mendy,,30,19,0,0,England,Leicester City
+2022,85,Senegal,A,Defender,Youssouf Sabaly,,29,24,0,0,Spain,Real Betis
+2022,86,Senegal,A,Defender,Cheikhou Kouyaté,,32,83,4,0,England,Nottingham Forest
+2022,87,Senegal,A,Forward,Iliman Ndiaye,,22,2,0,0,England,Sheffield United
+2022,88,Senegal,A,Forward,Sadio Mané,,30,93,34,1,Germany,Bayern Munich
+2022,89,Senegal,A,Defender,Formose Mendy,,21,2,0,0,France,Amiens
+2022,90,Senegal,A,Defender,Pape Abou Cissé,,27,13,1,0,Greece,Olympiacos
+2022,91,Senegal,A,Midfielder,Pape Gueye,,23,12,0,0,France,Marseille
+2022,92,Senegal,A,Defender,Moustapha Name,,27,6,0,0,Cyprus,Pafos
+2022,93,Senegal,A,Midfielder,Krépin Diatta,,23,26,2,0,France,Monaco
+2022,94,Senegal,A,Midfielder,Pathé Ciss,,28,1,0,0,Spain,Rayo Vallecano
+2022,95,Senegal,A,Midfielder,Pape Matar Sarr,,20,10,0,0,England,Tottenham Hotspur
+2022,96,Senegal,A,Forward,Ismaïla Sarr,,24,48,10,0,England,Watford
+2022,97,Senegal,A,Forward,Famara Diédhiou,,29,24,10,0,Turkey,Alanyaspor
+2022,98,Senegal,A,Forward,Bamba Dieng,,22,13,2,0,France,Marseille
+2022,99,Senegal,A,Forward,Boulaye Dia,,26,19,3,0,Italy,Salernitana
+2022,100,Senegal,A,Defender,Fodé Ballo-Touré,,25,14,0,0,Italy,Milan
+2022,101,Senegal,A,Goalkeeper,Seny Dieng,,27,4,0,0,England,Queens Park Rangers
+2022,102,Senegal,A,Midfielder,Mamadou Loum,,25,3,0,0,England,Reading
+2022,103,Senegal,A,Forward,Nicolas Jackson,,21,0,0,0,Spain,Villarreal
+2022,104,Senegal,A,Goalkeeper,Alfred Gomis,,29,14,0,0,France,Rennes
+2022,105,England,B,Goalkeeper,Jordan Pickford,,28,45,0,0,England,Everton
+2022,106,England,B,Defender,Kyle Walker,,32,70,0,0,England,Manchester City
+2022,107,England,B,Defender,Luke Shaw,,27,23,3,0,England,Manchester United
+2022,108,England,B,Midfielder,Declan Rice,,23,34,2,0,England,West Ham United
+2022,109,England,B,Defender,John Stones,,28,59,3,2,England,Manchester City
+2022,110,England,B,Defender,Harry Maguire,,29,48,7,1,England,Manchester United
+2022,111,England,B,Forward,Jack Grealish,,27,24,1,0,England,Manchester City
+2022,112,England,B,Midfielder,Jordan Henderson,,32,70,2,0,England,Liverpool
+2022,113,England,B,Forward,Harry Kane (captain),,29,75,51,6,England,Tottenham Hotspur
+2022,114,England,B,Forward,Raheem Sterling,,27,79,19,0,England,Chelsea
+2022,115,England,B,Forward,Marcus Rashford,,25,46,12,0,England,Manchester United
+2022,116,England,B,Defender,Kieran Trippier,,32,37,1,1,England,Newcastle United
+2022,117,England,B,Goalkeeper,Nick Pope,,30,10,0,0,England,Newcastle United
+2022,118,England,B,Midfielder,Kalvin Phillips,,26,23,0,0,England,Manchester City
+2022,119,England,B,Defender,Eric Dier,,28,47,3,0,England,Tottenham Hotspur
+2022,120,England,B,Defender,Conor Coady,,29,10,1,0,England,Everton
+2022,121,England,B,Forward,Bukayo Saka,,21,20,4,0,England,Arsenal
+2022,122,England,B,Defender,Trent Alexander-Arnold,,24,17,1,0,England,Liverpool
+2022,123,England,B,Midfielder,Mason Mount,,23,32,5,0,England,Chelsea
+2022,124,England,B,Midfielder,Phil Foden,,22,18,2,0,England,Manchester City
+2022,125,England,B,Defender,Ben White,,25,4,0,0,England,Arsenal
+2022,126,England,B,Midfielder,Jude Bellingham,,19,17,0,0,Germany,Borussia Dortmund
+2022,127,England,B,Goalkeeper,Aaron Ramsdale,,24,3,0,0,England,Arsenal
+2022,128,England,B,Forward,Callum Wilson,,30,4,1,0,England,Newcastle United
+2022,129,England,B,Midfielder,James Maddison,,25,1,0,0,England,Leicester City
+2022,130,England,B,Midfielder,Conor Gallagher,,22,4,0,0,England,Chelsea
+2022,131,Iran,B,Goalkeeper,Alireza Beiranvand,,30,52,0,0,Iran,Persepolis
+2022,132,Iran,B,Defender,Sadegh Moharrami,,26,21,0,0,Croatia,Dinamo Zagreb
+2022,133,Iran,B,Defender,Ehsan Hajsafi (captain),,32,121,7,0,Greece,AEK Athens
+2022,134,Iran,B,Defender,Shojae Khalilzadeh,,33,25,1,0,Qatar,Al-Ahli Doha
+2022,135,Iran,B,Defender,Milad Mohammadi,,29,45,1,0,Greece,AEK Athens
+2022,136,Iran,B,Midfielder,Saeid Ezatolahi,,26,47,1,0,Denmark,Vejle
+2022,137,Iran,B,Midfielder,Alireza Jahanbakhsh,,29,64,13,0,Netherlands,Feyenoord
+2022,138,Iran,B,Defender,Morteza Pouraliganji,,30,46,3,0,Iran,Persepolis
+2022,139,Iran,B,Forward,Mehdi Taremi,,30,60,28,0,Portugal,Porto
+2022,140,Iran,B,Forward,Karim Ansarifard,,32,94,29,1,Cyprus,Omonia
+2022,141,Iran,B,Midfielder,Vahid Amiri,,34,68,2,0,Iran,Persepolis
+2022,142,Iran,B,Goalkeeper,Payam Niazmand,,27,1,0,0,Iran,Sepahan
+2022,143,Iran,B,Defender,Hossein Kanaanizadegan,,28,35,2,0,Qatar,Al-Ahli Doha
+2022,144,Iran,B,Midfielder,Saman Ghoddos,,29,33,2,0,England,Brentford
+2022,145,Iran,B,Defender,Rouzbeh Cheshmi,,29,19,1,0,Iran,Esteghlal
+2022,146,Iran,B,Midfielder,Mehdi Torabi,,28,36,6,0,Iran,Persepolis
+2022,147,Iran,B,Midfielder,Ali Gholizadeh,,26,26,6,0,Belgium,Charleroi
+2022,148,Iran,B,Midfielder,Ali Karimi,,28,13,0,0,Turkey,Kayserispor
+2022,149,Iran,B,Defender,Majid Hosseini,,26,18,0,0,Turkey,Kayserispor
+2022,150,Iran,B,Forward,Sardar Azmoun,,27,65,41,0,Germany,Bayer Leverkusen
+2022,151,Iran,B,Midfielder,Ahmad Nourollahi,,29,26,3,0,United Arab Emirates,Shabab Al-Ahli
+2022,152,Iran,B,Goalkeeper,Amir Abedzadeh,,29,11,0,0,Spain,Ponferradina
+2022,153,Iran,B,Defender,Ramin Rezaeian,,32,46,2,0,Iran,Sepahan
+2022,154,Iran,B,Goalkeeper,Hossein Hosseini,,30,6,0,0,Iran,Esteghlal
+2022,155,Iran,B,Defender,Abolfazl Jalali,,24,3,0,0,Iran,Esteghlal
+2022,156,United States,B,Goalkeeper,Matt Turner,,28,20,0,0,England,Arsenal
+2022,157,United States,B,Defender,Sergiño Dest,,22,19,2,0,Italy,Milan
+2022,158,United States,B,Defender,Walker Zimmerman,,29,33,3,0,United States,Nashville SC
+2022,159,United States,B,Midfielder,Tyler Adams,,23,32,1,0,England,Leeds United
+2022,160,United States,B,Defender,Antonee Robinson,,25,29,2,0,England,Fulham
+2022,161,United States,B,Midfielder,Yunus Musah,,19,19,0,0,Spain,Valencia
+2022,162,United States,B,Forward,Giovanni Reyna,,20,14,4,0,Germany,Borussia Dortmund
+2022,163,United States,B,Midfielder,Weston McKennie,,24,37,9,0,Italy,Juventus
+2022,164,United States,B,Forward,Jesús Ferreira,,21,15,7,0,United States,FC Dallas
+2022,165,United States,B,Forward,Christian Pulisic,,24,52,21,0,England,Chelsea
+2022,166,United States,B,Forward,Brenden Aaronson,,22,24,6,0,England,Leeds United
+2022,167,United States,B,Goalkeeper,Ethan Horvath,,27,8,0,0,England,Luton Town
+2022,168,United States,B,Defender,Tim Ream,,35,46,1,0,England,Fulham
+2022,169,United States,B,Midfielder,Luca de la Torre,,24,12,0,0,Spain,Celta Vigo
+2022,170,United States,B,Defender,Aaron Long,,30,29,3,0,United States,New York Red Bulls
+2022,171,United States,B,Forward,Jordan Morris,,28,49,11,0,United States,Seattle Sounders FC
+2022,172,United States,B,Midfielder,Cristian Roldan,,27,32,0,0,United States,Seattle Sounders FC
+2022,173,United States,B,Defender,Shaq Moore,,26,15,1,0,United States,Nashville SC
+2022,174,United States,B,Forward,Haji Wright,,24,3,1,0,Turkey,Antalyaspor
+2022,175,United States,B,Defender,Cameron Carter-Vickers,,24,11,0,0,Scotland,Celtic
+2022,176,United States,B,Forward,Timothy Weah,,22,25,3,0,France,Lille
+2022,177,United States,B,Defender,DeAndre Yedlin,,29,75,0,0,United States,Inter Miami CF
+2022,178,United States,B,Midfielder,Kellyn Acosta,,27,53,2,0,United States,Los Angeles FC
+2022,179,United States,B,Forward,Josh Sargent,,22,20,5,0,England,Norwich City
+2022,180,United States,B,Goalkeeper,Sean Johnson,,33,10,0,0,United States,New York City FC
+2022,181,United States,B,Defender,Joe Scally,,19,3,0,0,Germany,Borussia Mönchengladbach
+2022,182,Wales,B,Goalkeeper,Wayne Hennessey,,35,106,0,0,England,Nottingham Forest
+2022,183,Wales,B,Defender,Chris Gunter,,33,109,0,0,England,Wimbledon
+2022,184,Wales,B,Defender,Neco Williams,,21,23,2,0,England,Nottingham Forest
+2022,185,Wales,B,Defender,Ben Davies,,29,74,1,0,England,Tottenham Hotspur
+2022,186,Wales,B,Defender,Chris Mepham,,25,33,0,0,England,Bournemouth
+2022,187,Wales,B,Defender,Joe Rodon,,25,30,0,0,France,Rennes
+2022,188,Wales,B,Midfielder,Joe Allen,,32,72,2,0,Wales,Swansea City
+2022,189,Wales,B,Midfielder,Harry Wilson,,25,39,5,0,England,Fulham
+2022,190,Wales,B,Forward,Brennan Johnson,,21,15,2,0,England,Nottingham Forest
+2022,191,Wales,B,Midfielder,Aaron Ramsey,,31,75,20,0,France,Nice
+2022,192,Wales,B,Forward,Gareth Bale (captain),,33,108,40,0,United States,Los Angeles FC
+2022,193,Wales,B,Goalkeeper,Danny Ward,,29,26,0,0,England,Leicester City
+2022,194,Wales,B,Forward,Kieffer Moore,,30,28,9,0,England,Bournemouth
+2022,195,Wales,B,Defender,Connor Roberts,,27,41,3,0,England,Burnley
+2022,196,Wales,B,Defender,Ethan Ampadu,,22,37,0,0,Italy,Spezia
+2022,197,Wales,B,Midfielder,Joe Morrell,,25,30,0,0,England,Portsmouth
+2022,198,Wales,B,Defender,Tom Lockyer,,27,14,0,0,England,Luton Town
+2022,199,Wales,B,Midfielder,Jonny Williams,,29,33,2,0,England,Swindon Town
+2022,200,Wales,B,Forward,Mark Harris,,23,5,0,0,Wales,Cardiff City
+2022,201,Wales,B,Forward,Daniel James,,25,38,5,0,England,Fulham
+2022,202,Wales,B,Goalkeeper,Adam Davies,,30,3,0,0,England,Sheffield United
+2022,203,Wales,B,Midfielder,Sorba Thomas,,23,6,0,0,England,Huddersfield Town
+2022,204,Wales,B,Midfielder,Dylan Levitt,,22,13,0,0,Scotland,Dundee United
+2022,205,Wales,B,Defender,Ben Cabango,,22,5,0,0,Wales,Swansea City
+2022,206,Wales,B,Midfielder,Rubin Colwill,,20,7,1,0,Wales,Cardiff City
+2022,207,Wales,B,Midfielder,Matthew Smith,,22,19,0,0,England,Milton Keynes Dons
+2022,208,Argentina,C,Goalkeeper,Franco Armani,,36,18,0,0,Argentina,River Plate
+2022,209,Argentina,C,Defender,Juan Foyth,,24,15,0,0,Spain,Villarreal
+2022,210,Argentina,C,Defender,Nicolás Tagliafico,,30,42,0,0,France,Lyon
+2022,211,Argentina,C,Defender,Gonzalo Montiel,,25,17,0,0,Spain,Sevilla
+2022,212,Argentina,C,Midfielder,Leandro Paredes,,28,45,4,0,Italy,Juventus
+2022,213,Argentina,C,Defender,Germán Pezzella,,31,31,2,0,Spain,Real Betis
+2022,214,Argentina,C,Midfielder,Rodrigo De Paul,,28,43,2,0,Spain,Atlético Madrid
+2022,215,Argentina,C,Midfielder,Marcos Acuña,,31,42,0,0,Spain,Sevilla
+2022,216,Argentina,C,Forward,Julián Álvarez,,22,11,2,0,England,Manchester City
+2022,217,Argentina,C,Forward,Lionel Messi (captain),,35,164,90,6,France,Paris Saint-Germain
+2022,218,Argentina,C,Forward,Ángel Di María,,34,123,25,2,Italy,Juventus
+2022,219,Argentina,C,Goalkeeper,Gerónimo Rulli,,30,4,0,0,Spain,Villarreal
+2022,220,Argentina,C,Defender,Cristian Romero,,24,12,1,0,England,Tottenham Hotspur
+2022,221,Argentina,C,Midfielder,Exequiel Palacios,,24,20,0,0,Germany,Bayer Leverkusen
+2022,222,Argentina,C,Forward,Nicolás González,,24,21,3,0,Italy,Fiorentina
+2022,223,Argentina,C,Forward,Joaquín Correa,,28,18,3,0,Italy,Internazionale
+2022,224,Argentina,C,Midfielder,Papu Gómez,,34,15,3,0,Spain,Sevilla
+2022,225,Argentina,C,Midfielder,Guido Rodríguez,,28,25,1,0,Spain,Real Betis
+2022,226,Argentina,C,Defender,Nicolás Otamendi,,34,92,4,0,Portugal,Benfica
+2022,227,Argentina,C,Midfielder,Alexis Mac Allister,,23,7,0,0,England,Brighton & Hove Albion
+2022,228,Argentina,C,Forward,Paulo Dybala,,29,34,3,0,Italy,Roma
+2022,229,Argentina,C,Forward,Lautaro Martínez,,25,40,21,0,Italy,Internazionale
+2022,230,Argentina,C,Goalkeeper,Emiliano Martínez,,30,18,0,0,England,Aston Villa
+2022,231,Argentina,C,Midfielder,Enzo Fernández,,21,2,0,0,Portugal,Benfica
+2022,232,Argentina,C,Defender,Lisandro Martínez,,24,9,0,0,England,Manchester United
+2022,233,Argentina,C,Defender,Nahuel Molina,,24,19,0,0,Spain,Atlético Madrid
+2022,234,Mexico,C,Goalkeeper,Alfredo Talavera,,40,39,0,0,Mexico,Juárez
+2022,235,Mexico,C,Defender,Néstor Araujo,,31,61,3,0,Mexico,América
+2022,236,Mexico,C,Defender,César Montes,,25,28,1,0,Mexico,Monterrey
+2022,237,Mexico,C,Defender,Edson Álvarez,,25,58,3,0,Netherlands,Ajax
+2022,238,Mexico,C,Defender,Johan Vásquez,,24,6,0,0,Italy,Cremonese
+2022,239,Mexico,C,Defender,Gerardo Arteaga,,24,17,1,0,Belgium,Genk
+2022,240,Mexico,C,Midfielder,Luis Romo,,27,25,1,0,Mexico,Monterrey
+2022,241,Mexico,C,Midfielder,Carlos Rodríguez,,25,34,0,0,Mexico,Cruz Azul
+2022,242,Mexico,C,Forward,Raúl Jiménez,,31,94,29,0,England,Wolverhampton Wanderers
+2022,243,Mexico,C,Forward,Alexis Vega,,24,20,4,0,Mexico,Guadalajara
+2022,244,Mexico,C,Forward,Rogelio Funes Mori,,31,15,5,0,Mexico,Monterrey
+2022,245,Mexico,C,Goalkeeper,Rodolfo Cota,,35,8,0,0,Mexico,León
+2022,246,Mexico,C,Goalkeeper,Guillermo Ochoa,,37,130,0,0,Mexico,América
+2022,247,Mexico,C,Midfielder,Érick Gutiérrez,,27,34,1,0,Netherlands,PSV Eindhoven
+2022,248,Mexico,C,Defender,Héctor Moreno,,34,126,5,0,Mexico,Monterrey
+2022,249,Mexico,C,Midfielder,Héctor Herrera,,32,100,10,0,United States,Houston Dynamo FC
+2022,250,Mexico,C,Forward,Orbelín Pineda,,26,50,6,0,Greece,AEK Athens
+2022,251,Mexico,C,Midfielder,Andrés Guardado (captain),,36,177,28,1,Spain,Real Betis
+2022,252,Mexico,C,Defender,Jorge Sánchez,,24,25,1,0,Netherlands,Ajax
+2022,253,Mexico,C,Forward,Henry Martín,,30,25,6,0,Mexico,América
+2022,254,Mexico,C,Forward,Uriel Antuna,,25,34,8,0,Mexico,Cruz Azul
+2022,255,Mexico,C,Forward,Hirving Lozano,,27,59,16,1,Italy,Napoli
+2022,256,Mexico,C,Defender,Jesús Gallardo,,28,76,0,0,Mexico,Monterrey
+2022,257,Mexico,C,Midfielder,Luis Chávez,,26,7,0,0,Mexico,Pachuca
+2022,258,Mexico,C,Forward,Roberto Alvarado,,24,30,4,0,Mexico,Guadalajara
+2022,259,Mexico,C,Defender,Kevin Álvarez,,23,7,0,0,Mexico,Pachuca
+2022,260,Poland,C,Goalkeeper,Wojciech Szcz?sny,,32,66,0,0,Italy,Juventus
+2022,261,Poland,C,Defender,Matty Cash,,25,7,1,0,England,Aston Villa
+2022,262,Poland,C,Defender,Artur J?drzejczyk,,35,40,3,0,Poland,Legia Warsaw
+2022,263,Poland,C,Defender,Mateusz Wieteska,,25,1,0,0,France,Clermont
+2022,264,Poland,C,Defender,Jan Bednarek,,26,44,1,1,England,Aston Villa
+2022,265,Poland,C,Midfielder,Krystian Bielik,,24,5,0,0,England,Birmingham City
+2022,266,Poland,C,Forward,Arkadiusz Milik,,28,63,16,0,Italy,Juventus
+2022,267,Poland,C,Midfielder,Damian Szyma?ski,,27,8,1,0,Greece,AEK Athens
+2022,268,Poland,C,Forward,Robert Lewandowski (captain),,34,134,76,0,Spain,Barcelona
+2022,269,Poland,C,Midfielder,Grzegorz Krychowiak,,32,93,5,1,Saudi Arabia,Al-Shabab
+2022,270,Poland,C,Midfielder,Kamil Grosicki,,34,86,17,0,Poland,Pogo? Szczecin
+2022,271,Poland,C,Goalkeeper,?ukasz Skorupski,,31,7,0,0,Italy,Bologna
+2022,272,Poland,C,Midfielder,Jakub Kami?ski,,20,3,1,0,Germany,VfL Wolfsburg
+2022,273,Poland,C,Defender,Jakub Kiwior,,22,4,0,0,Italy,Spezia
+2022,274,Poland,C,Defender,Kamil Glik,,34,98,6,0,Italy,Benevento
+2022,275,Poland,C,Forward,Karol ?widerski,,25,17,8,0,United States,Charlotte FC
+2022,276,Poland,C,Midfielder,Szymon ?urkowski,,25,6,0,0,Italy,Fiorentina
+2022,277,Poland,C,Defender,Bartosz Bereszy?ski,,30,45,0,0,Italy,Sampdoria
+2022,278,Poland,C,Midfielder,Sebastian Szyma?ski,,23,17,1,0,Netherlands,Feyenoord
+2022,279,Poland,C,Midfielder,Piotr Zieli?ski,,28,74,9,0,Italy,Napoli
+2022,280,Poland,C,Midfielder,Nicola Zalewski,,20,7,0,0,Italy,Roma
+2022,281,Poland,C,Goalkeeper,Kamil Grabara,,23,1,0,0,Denmark,Copenhagen
+2022,282,Poland,C,Forward,Krzysztof Pi?tek,,27,24,10,0,Italy,Salernitana
+2022,283,Poland,C,Midfielder,Przemys?aw Frankowski,,27,25,1,0,France,Lens
+2022,284,Poland,C,Defender,Robert Gumny,,24,4,0,0,Germany,FC Augsburg
+2022,285,Poland,C,Midfielder,Micha? Skóra?,,22,1,0,0,Poland,Lech Pozna?
+2022,286,Saudi Arabia,C,Goalkeeper,Mohammed Al-Rubaie,,25,7,0,0,Saudi Arabia,Al-Ahli
+2022,287,Saudi Arabia,C,Defender,Sultan Al-Ghannam,,28,24,0,0,Saudi Arabia,Al-Nassr
+2022,288,Saudi Arabia,C,Defender,Abdullah Madu,,29,15,0,0,Saudi Arabia,Al-Nassr
+2022,289,Saudi Arabia,C,Defender,Abdulelah Al-Amri,,25,19,1,0,Saudi Arabia,Al-Nassr
+2022,290,Saudi Arabia,C,Defender,Ali Al-Bulaihi,,32,36,0,0,Saudi Arabia,Al-Hilal
+2022,291,Saudi Arabia,C,Defender,Mohammed Al-Breik,,30,40,1,0,Saudi Arabia,Al-Hilal
+2022,292,Saudi Arabia,C,Midfielder,Salman Al-Faraj (captain),,33,69,8,1,Saudi Arabia,Al-Hilal
+2022,293,Saudi Arabia,C,Midfielder,Abdulellah Al-Malki,,28,26,0,0,Saudi Arabia,Al-Hilal
+2022,294,Saudi Arabia,C,Forward,Firas Al-Buraikan,,22,26,6,0,Saudi Arabia,Al-Fateh
+2022,295,Saudi Arabia,C,Forward,Salem Al-Dawsari,,31,70,17,1,Saudi Arabia,Al-Hilal
+2022,296,Saudi Arabia,C,Forward,Saleh Al-Shehri,,29,19,10,0,Saudi Arabia,Al-Hilal
+2022,297,Saudi Arabia,C,Defender,Saud Abdulhamid,,23,22,1,0,Saudi Arabia,Al-Hilal
+2022,298,Saudi Arabia,C,Defender,Yasser Al-Shahrani,,30,71,2,0,Saudi Arabia,Al-Hilal
+2022,299,Saudi Arabia,C,Midfielder,Abdullah Otayf,,30,45,1,0,Saudi Arabia,Al-Hilal
+2022,300,Saudi Arabia,C,Midfielder,Ali Al-Hassan,,25,12,1,0,Saudi Arabia,Al-Nassr
+2022,301,Saudi Arabia,C,Midfielder,Sami Al-Najei,,25,17,2,0,Saudi Arabia,Al-Nassr
+2022,302,Saudi Arabia,C,Defender,Hassan Al-Tambakti,,23,18,0,0,Saudi Arabia,Al-Shabab
+2022,303,Saudi Arabia,C,Midfielder,Nawaf Al-Abed,,32,54,8,0,Saudi Arabia,Al-Shabab
+2022,304,Saudi Arabia,C,Forward,Hattan Bahebri,,30,40,4,0,Saudi Arabia,Al-Shabab
+2022,305,Saudi Arabia,C,Forward,Abdulrahman Al-Aboud,,27,3,0,0,Saudi Arabia,Al-Ittihad
+2022,306,Saudi Arabia,C,Goalkeeper,Mohammed Al-Owais,,31,41,0,0,Saudi Arabia,Al-Hilal
+2022,307,Saudi Arabia,C,Goalkeeper,Nawaf Al-Aqidi,,22,1,0,0,Saudi Arabia,Al-Nassr
+2022,308,Saudi Arabia,C,Midfielder,Mohamed Kanno,,28,37,1,0,Saudi Arabia,Al-Hilal
+2022,309,Saudi Arabia,C,Midfielder,Nasser Al-Dawsari,,23,9,0,0,Saudi Arabia,Al-Hilal
+2022,310,Saudi Arabia,C,Forward,Haitham Asiri,,21,7,1,0,Saudi Arabia,Al-Ahli
+2022,311,Saudi Arabia,C,Midfielder,Riyadh Sharahili,,29,5,0,0,Saudi Arabia,Abha
+2022,312,Australia,D,Goalkeeper,Mathew Ryan (captain),,30,75,0,0,Denmark,Copenhagen
+2022,313,Australia,D,Defender,Miloš Degenek,,28,38,1,0,United States,Columbus Crew
+2022,314,Australia,D,Defender,Nathaniel Atkinson,,23,5,0,0,Scotland,Heart of Midlothian
+2022,315,Australia,D,Defender,Kye Rowles,,24,3,0,0,Scotland,Heart of Midlothian
+2022,316,Australia,D,Defender,Fran Kara?i?,,26,10,1,0,Italy,Brescia
+2022,317,Australia,D,Forward,Martin Boyle,,29,19,5,0,Scotland,Hibernian
+2022,318,Australia,D,Forward,Mathew Leckie,,31,73,13,0,Australia,Melbourne City
+2022,319,Australia,D,Defender,Bailey Wright,,30,27,2,0,England,Sunderland
+2022,320,Australia,D,Forward,Jamie Maclaren,,29,26,8,0,Australia,Melbourne City
+2022,321,Australia,D,Midfielder,Ajdin Hrustic,,26,20,3,0,Italy,Hellas Verona
+2022,322,Australia,D,Forward,Awer Mabil,,27,29,8,0,Spain,Cádiz
+2022,323,Australia,D,Goalkeeper,Andrew Redmayne,,33,4,0,0,Australia,Sydney FC
+2022,324,Australia,D,Midfielder,Aaron Mooy,,32,53,7,0,Scotland,Celtic
+2022,325,Australia,D,Midfielder,Riley McGree,,24,11,1,0,England,Middlesbrough
+2022,326,Australia,D,Forward,Mitchell Duke,,31,21,8,0,Japan,Fagiano Okayama
+2022,327,Australia,D,Defender,Aziz Behich,,31,53,2,0,Scotland,Dundee United
+2022,328,Australia,D,Midfielder,Cameron Devlin,,24,1,0,0,Scotland,Heart of Midlothian
+2022,329,Australia,D,Goalkeeper,Danny Vukovic,,37,4,0,0,Australia,Central Coast Mariners
+2022,330,Australia,D,Defender,Harry Souttar,,24,10,6,0,England,Stoke City
+2022,331,Australia,D,Defender,Thomas Deng,,25,2,0,0,Japan,Albirex Niigata
+2022,332,Australia,D,Forward,Garang Kuol,,18,1,0,0,Australia,Central Coast Mariners
+2022,333,Australia,D,Midfielder,Jackson Irvine,,29,49,7,0,Germany,FC St. Pauli
+2022,334,Australia,D,Forward,Craig Goodwin,,30,10,1,0,Australia,Adelaide United
+2022,335,Australia,D,Defender,Joel King,,22,4,0,0,Denmark,OB
+2022,336,Australia,D,Forward,Jason Cummings,,27,1,1,0,Australia,Central Coast Mariners
+2022,337,Australia,D,Midfielder,Keanu Baccus,,24,1,0,0,Scotland,St Mirren
+2022,338,Denmark,D,Goalkeeper,Kasper Schmeichel,,36,86,0,0,France,Nice
+2022,339,Denmark,D,Defender,Joachim Andersen,,26,19,0,0,England,Crystal Palace
+2022,340,Denmark,D,Defender,Victor Nelsson,,24,7,0,0,Turkey,Galatasaray
+2022,341,Denmark,D,Defender,Simon Kjær (captain),,33,121,5,0,Italy,Milan
+2022,342,Denmark,D,Defender,Joakim Mæhle,,25,31,9,0,Italy,Atalanta
+2022,343,Denmark,D,Defender,Andreas Christensen,,26,58,2,0,Spain,Barcelona
+2022,344,Denmark,D,Midfielder,Mathias Jensen,,26,20,1,0,England,Brentford
+2022,345,Denmark,D,Midfielder,Thomas Delaney,,31,71,7,0,Spain,Sevilla
+2022,346,Denmark,D,Forward,Martin Braithwaite,,31,62,10,0,Spain,Espanyol
+2022,347,Denmark,D,Midfielder,Christian Eriksen,,30,117,39,1,England,Manchester United
+2022,348,Denmark,D,Midfielder,Andreas Skov Olsen,,22,23,8,0,Belgium,Club Brugge
+2022,349,Denmark,D,Forward,Kasper Dolberg,,25,37,11,0,Spain,Sevilla
+2022,350,Denmark,D,Defender,Rasmus Kristensen,,25,10,0,0,England,Leeds United
+2022,351,Denmark,D,Midfielder,Mikkel Damsgaard,,22,18,4,0,England,Brentford
+2022,352,Denmark,D,Midfielder,Christian Nørgaard,,28,17,1,0,England,Brentford
+2022,353,Denmark,D,Goalkeeper,Oliver Christensen,,23,1,0,0,Germany,Hertha BSC
+2022,354,Denmark,D,Defender,Jens Stryger Larsen,,31,49,3,0,Turkey,Trabzonspor
+2022,355,Denmark,D,Defender,Daniel Wass,,33,44,1,0,Denmark,Brøndby
+2022,356,Denmark,D,Forward,Jonas Wind,,23,15,5,0,Germany,VfL Wolfsburg
+2022,357,Denmark,D,Forward,Yussuf Poulsen,,28,68,11,1,Germany,RB Leipzig
+2022,358,Denmark,D,Forward,Andreas Cornelius,,29,41,9,0,Denmark,Copenhagen
+2022,359,Denmark,D,Goalkeeper,Frederik Rønnow,,30,8,0,0,Germany,Union Berlin
+2022,360,Denmark,D,Midfielder,Pierre-Emile Højbjerg,,27,60,5,0,England,Tottenham Hotspur
+2022,361,Denmark,D,Midfielder,Robert Skov,,26,11,5,0,Germany,1899 Hoffenheim
+2022,362,Denmark,D,Midfielder,Jesper Lindstrøm,,22,6,1,0,Germany,Eintracht Frankfurt
+2022,363,Denmark,D,Defender,Alexander Bah,,24,4,1,0,Portugal,Benfica
+2022,364,France,D,Goalkeeper,Hugo Lloris (captain),,35,139,0,0,England,Tottenham Hotspur
+2022,365,France,D,Defender,Benjamin Pavard,,26,46,2,1,Germany,Bayern Munich
+2022,366,France,D,Defender,Axel Disasi,,24,0,0,0,France,Monaco
+2022,367,France,D,Defender,Raphaël Varane,,29,87,5,1,England,Manchester United
+2022,368,France,D,Defender,Jules Koundé,,24,12,0,0,Spain,Barcelona
+2022,369,France,D,Midfielder,Matteo Guendouzi,,23,6,1,0,France,Marseille
+2022,370,France,D,Forward,Antoine Griezmann,,31,110,42,4,Spain,Atlético Madrid
+2022,371,France,D,Midfielder,Aurélien Tchouaméni,,22,14,1,0,Spain,Real Madrid
+2022,372,France,D,Forward,Olivier Giroud,,36,114,49,1,Italy,Milan
+2022,373,France,D,Forward,Kylian Mbappé,,23,59,28,4,France,Paris Saint-Germain
+2022,374,France,D,Forward,Ousmane Dembélé,,25,28,4,0,Spain,Barcelona
+2022,375,France,D,Forward,Randal Kolo Muani,,23,2,0,0,Germany,Eintracht Frankfurt
+2022,376,France,D,Defender,Youssouf Fofana,,23,2,0,0,France,Monaco
+2022,377,France,D,Midfielder,Adrien Rabiot,,27,29,2,0,Italy,Juventus
+2022,378,France,D,Midfielder,Jordan Veretout,,29,5,0,0,France,Marseille
+2022,379,France,D,Goalkeeper,Steve Mandanda,,37,34,0,0,France,Rennes
+2022,380,France,D,Defender,William Saliba,,21,7,0,0,England,Arsenal
+2022,381,France,D,Defender,Dayot Upamecano,,24,7,1,0,Germany,Bayern Munich
+2022,382,France,D,Forward,Karim Benzema,,34,97,37,3,Spain,Real Madrid
+2022,383,France,D,Forward,Kingsley Coman,,26,40,5,0,Germany,Bayern Munich
+2022,384,France,D,Defender,Lucas Hernandez,,26,32,0,0,Germany,Bayern Munich
+2022,385,France,D,Defender,Theo Hernandez,,25,7,1,0,Italy,Milan
+2022,386,France,D,Goalkeeper,Alphonse Areola,,29,5,0,0,England,West Ham United
+2022,387,France,D,Defender,Ibrahima Konaté,,23,2,0,0,England,Liverpool
+2022,388,France,D,Midfielder,Eduardo Camavinga,,20,4,1,0,Spain,Real Madrid
+2022,389,France,D,Forward,Marcus Thuram,,25,4,0,0,Germany,Borussia Mönchengladbach
+2022,390,Tunisia,D,Goalkeeper,Aymen Mathlouthi,,38,73,0,0,Tunisia,Étoile du Sahel
+2022,391,Tunisia,D,Defender,Bilel Ifa,,32,36,0,0,Kuwait,Kuwait SC
+2022,392,Tunisia,D,Defender,Montassar Talbi,,24,22,1,0,France,Lorient
+2022,393,Tunisia,D,Defender,Yassine Meriah,,29,60,3,0,Tunisia,Espérance de Tunis
+2022,394,Tunisia,D,Midfielder,Nader Ghandri,,27,7,0,0,Tunisia,Club Africain
+2022,395,Tunisia,D,Defender,Dylan Bronn,,27,36,2,1,Italy,Salernitana
+2022,396,Tunisia,D,Forward,Youssef Msakni (captain),,32,87,17,0,Qatar,Al-Arabi
+2022,397,Tunisia,D,Midfielder,Hannibal Mejbri,,19,18,0,0,England,Birmingham City
+2022,398,Tunisia,D,Forward,Issam Jebali,,30,9,2,0,Denmark,OB
+2022,399,Tunisia,D,Forward,Wahbi Khazri,,31,71,24,2,France,Montpellier
+2022,400,Tunisia,D,Forward,Taha Yassine Khenissi,,30,48,9,0,Kuwait,Kuwait SC
+2022,401,Tunisia,D,Defender,Ali Maâloul,,32,82,2,0,Egypt,Al Ahly
+2022,402,Tunisia,D,Midfielder,Ferjani Sassi,,30,77,6,1,Qatar,Al-Duhail
+2022,403,Tunisia,D,Midfielder,Aïssa Laïdouni,,25,24,1,0,Hungary,Ferencváros
+2022,404,Tunisia,D,Midfielder,Mohamed Ali Ben Romdhane,,23,22,1,0,Tunisia,Espérance de Tunis
+2022,405,Tunisia,D,Goalkeeper,Aymen Dahmen,,25,4,0,0,Tunisia,CS Sfaxien
+2022,406,Tunisia,D,Midfielder,Ellyes Skhiri,,27,48,3,0,Germany,1. FC Köln
+2022,407,Tunisia,D,Midfielder,Ghailene Chaalali,,28,30,1,0,Tunisia,Espérance de Tunis
+2022,408,Tunisia,D,Forward,Seifeddine Jaziri,,29,29,10,0,Egypt,Zamalek
+2022,409,Tunisia,D,Defender,Mohamed Dräger,,26,33,3,0,Switzerland,Luzern
+2022,410,Tunisia,D,Defender,Wajdi Kechrida,,27,18,0,0,Greece,Atromitos
+2022,411,Tunisia,D,Goalkeeper,Bechir Ben Saïd,,29,10,0,0,Tunisia,US Monastir
+2022,412,Tunisia,D,Forward,Naïm Sliti,,30,68,13,0,Saudi Arabia,Al-Ettifaq
+2022,413,Tunisia,D,Defender,Ali Abdi,,28,9,1,0,France,Caen
+2022,414,Tunisia,D,Forward,Anis Ben Slimane,,21,24,4,0,Denmark,Brøndby
+2022,415,Tunisia,D,Goalkeeper,Mouez Hassen,,27,20,0,0,Tunisia,Club Africain
+2022,416,Costa Rica,E,Goalkeeper,Keylor Navas,,35,107,0,0,France,Paris Saint-Germain
+2022,417,Costa Rica,E,Midfielder,Daniel Chacón,,21,7,0,0,Costa Rica,Cartaginés
+2022,418,Costa Rica,E,Defender,Juan Pablo Vargas,,27,11,1,0,Colombia,Millonarios
+2022,419,Costa Rica,E,Defender,Keysher Fuller,,28,29,2,0,Costa Rica,Herediano
+2022,420,Costa Rica,E,Midfielder,Celso Borges,,34,154,27,0,Costa Rica,Alajuelense
+2022,421,Costa Rica,E,Defender,Óscar Duarte,,33,70,3,1,Saudi Arabia,Al-Wehda
+2022,422,Costa Rica,E,Forward,Anthony Contreras,,22,8,2,0,Costa Rica,Herediano
+2022,423,Costa Rica,E,Defender,Bryan Oviedo,,32,74,2,0,United States,Real Salt Lake
+2022,424,Costa Rica,E,Midfielder,Jewison Bennette,,18,7,2,0,England,Sunderland
+2022,425,Costa Rica,E,Midfielder,Bryan Ruiz (captain),,37,144,29,2,Costa Rica,Alajuelense
+2022,426,Costa Rica,E,Forward,Johan Venegas,,33,80,11,0,Costa Rica,Alajuelense
+2022,427,Costa Rica,E,Forward,Joel Campbell,,30,118,25,1,Mexico,León
+2022,428,Costa Rica,E,Midfielder,Gerson Torres,,25,13,1,0,Costa Rica,Herediano
+2022,429,Costa Rica,E,Midfielder,Youstin Salas,,26,3,0,0,Costa Rica,Saprissa
+2022,430,Costa Rica,E,Defender,Francisco Calvo,,30,75,8,0,Turkey,Konyaspor
+2022,431,Costa Rica,E,Defender,Carlos Martínez,,23,5,0,0,Costa Rica,San Carlos
+2022,432,Costa Rica,E,Midfielder,Yeltsin Tejeda,,30,73,0,0,Costa Rica,Herediano
+2022,433,Costa Rica,E,Goalkeeper,Esteban Alvarado,,33,24,0,0,Costa Rica,Herediano
+2022,434,Costa Rica,E,Defender,Kendall Waston,,34,61,7,1,Costa Rica,Saprissa
+2022,435,Costa Rica,E,Midfielder,Brandon Aguilera,,19,2,0,0,Costa Rica,Guanacasteca
+2022,436,Costa Rica,E,Midfielder,Douglas López,,24,1,0,0,Costa Rica,Herediano
+2022,437,Costa Rica,E,Defender,Rónald Matarrita,,28,52,3,0,United States,FC Cincinnati
+2022,438,Costa Rica,E,Goalkeeper,Patrick Sequeira,,23,1,0,0,Spain,Lugo
+2022,439,Costa Rica,E,Midfielder,Roan Wilson,,20,2,0,0,Costa Rica,Municipal Grecia
+2022,440,Costa Rica,E,Midfielder,Anthony Hernández,,21,1,0,0,Costa Rica,Puntarenas
+2022,441,Costa Rica,E,Midfielder,Álvaro Zamora,,20,1,0,0,Costa Rica,Saprissa
+2022,442,Germany,E,Goalkeeper,Manuel Neuer (captain),,36,113,0,0,Germany,Bayern Munich
+2022,443,Germany,E,Defender,Antonio Rüdiger,,29,54,2,0,Spain,Real Madrid
+2022,444,Germany,E,Defender,David Raum,,24,11,0,0,Germany,RB Leipzig
+2022,445,Germany,E,Defender,Matthias Ginter,,28,46,2,0,Germany,SC Freiburg
+2022,446,Germany,E,Defender,Thilo Kehrer,,26,22,0,0,England,West Ham United
+2022,447,Germany,E,Midfielder,Joshua Kimmich,,27,70,5,0,Germany,Bayern Munich
+2022,448,Germany,E,Forward,Kai Havertz,,23,30,10,0,England,Chelsea
+2022,449,Germany,E,Midfielder,Leon Goretzka,,27,44,14,0,Germany,Bayern Munich
+2022,450,Germany,E,Forward,Niclas Füllkrug,,29,0,0,0,Germany,Werder Bremen
+2022,451,Germany,E,Forward,Serge Gnabry,,27,36,20,0,Germany,Bayern Munich
+2022,452,Germany,E,Midfielder,Mario Götze,,30,63,17,2,Germany,Eintracht Frankfurt
+2022,453,Germany,E,Goalkeeper,Kevin Trapp,,32,6,0,0,Germany,Eintracht Frankfurt
+2022,454,Germany,E,Midfielder,Thomas Müller,,33,118,44,10,Germany,Bayern Munich
+2022,455,Germany,E,Midfielder,Jamal Musiala,,19,17,1,0,Germany,Bayern Munich
+2022,456,Germany,E,Defender,Niklas Süle,,27,42,1,0,Germany,Borussia Dortmund
+2022,457,Germany,E,Defender,Lukas Klostermann,,26,18,0,0,Germany,RB Leipzig
+2022,458,Germany,E,Midfielder,Julian Brandt,,26,38,3,0,Germany,Borussia Dortmund
+2022,459,Germany,E,Midfielder,Jonas Hofmann,,30,16,4,0,Germany,Borussia Mönchengladbach
+2022,460,Germany,E,Midfielder,Leroy Sané,,26,47,11,0,Germany,Bayern Munich
+2022,461,Germany,E,Defender,Christian Günter,,29,6,0,0,Germany,SC Freiburg
+2022,462,Germany,E,Midfielder,?lkay Gündo?an,,32,62,16,0,England,Manchester City
+2022,463,Germany,E,Goalkeeper,Marc-André ter Stegen,,30,30,0,0,Spain,Barcelona
+2022,464,Germany,E,Defender,Nico Schlotterbeck,,22,5,0,0,Germany,Borussia Dortmund
+2022,465,Germany,E,Forward,Karim Adeyemi,,20,4,1,0,Germany,Borussia Dortmund
+2022,466,Germany,E,Defender,Armel Bella-Kotchap,,20,1,0,0,England,Southampton
+2022,467,Germany,E,Forward,Youssoufa Moukoko,,18,0,0,0,Germany,Borussia Dortmund
+2022,468,Japan,E,Goalkeeper,Eiji Kawashima,,39,95,0,0,France,Strasbourg
+2022,469,Japan,E,Defender,Miki Yamane,,28,14,2,0,Japan,Kawasaki Frontale
+2022,470,Japan,E,Defender,Shogo Taniguchi,,31,13,0,0,Japan,Kawasaki Frontale
+2022,471,Japan,E,Defender,Ko Itakura,,25,12,1,0,Germany,Borussia Mönchengladbach
+2022,472,Japan,E,Defender,Yuto Nagatomo,,36,137,4,0,Japan,FC Tokyo
+2022,473,Japan,E,Midfielder,Wataru Endo,,29,43,2,0,Germany,VfB Stuttgart
+2022,474,Japan,E,Midfielder,Gaku Shibasaki,,30,59,3,0,Spain,Leganés
+2022,475,Japan,E,Midfielder,Ritsu D?an,,24,28,3,0,Germany,SC Freiburg
+2022,476,Japan,E,Midfielder,Kaoru Mitoma,,25,9,5,0,England,Brighton & Hove Albion
+2022,477,Japan,E,Midfielder,Takumi Minamino,,27,43,17,0,France,Monaco
+2022,478,Japan,E,Midfielder,Takefusa Kubo,,21,19,1,0,Spain,Real Sociedad
+2022,479,Japan,E,Goalkeeper,Sh?ichi Gonda,,33,33,0,0,Japan,Shimizu S-Pulse
+2022,480,Japan,E,Midfielder,Hidemasa Morita,,27,17,2,0,Portugal,Sporting CP
+2022,481,Japan,E,Midfielder,Junya Ito,,29,38,9,0,France,Reims
+2022,482,Japan,E,Midfielder,Daichi Kamada,,26,21,6,0,Germany,Eintracht Frankfurt
+2022,483,Japan,E,Defender,Takehiro Tomiyasu,,24,29,1,0,England,Arsenal
+2022,484,Japan,E,Midfielder,Ao Tanaka,,24,14,2,0,Germany,Fortuna Düsseldorf
+2022,485,Japan,E,Forward,Takuma Asano,,28,36,7,0,Germany,VfL Bochum
+2022,486,Japan,E,Defender,Hiroki Sakai,,32,71,1,0,Japan,Urawa Red Diamonds
+2022,487,Japan,E,Forward,Shuto Machino,,23,4,3,0,Japan,Shonan Bellmare
+2022,488,Japan,E,Forward,Ayase Ueda,,24,10,0,0,Belgium,Cercle Brugge
+2022,489,Japan,E,Defender,Maya Yoshida (captain),,34,121,12,0,Germany,Schalke 04
+2022,490,Japan,E,Goalkeeper,Daniel Schmidt,,30,11,0,0,Belgium,Sint-Truiden
+2022,491,Japan,E,Midfielder,Yuki Soma,,25,7,3,0,Japan,Nagoya Grampus
+2022,492,Japan,E,Forward,Daizen Maeda,,25,8,1,0,Scotland,Celtic
+2022,493,Japan,E,Defender,Hiroki Ito,,23,5,0,0,Germany,VfB Stuttgart
+2022,494,Spain,E,Goalkeeper,Robert Sánchez,,25,1,0,0,England,Brighton & Hove Albion
+2022,495,Spain,E,Defender,César Azpilicueta,,33,41,1,0,England,Chelsea
+2022,496,Spain,E,Defender,Eric García,,21,18,0,0,Spain,Barcelona
+2022,497,Spain,E,Defender,Pau Torres,,25,21,1,0,Spain,Villarreal
+2022,498,Spain,E,Midfielder,Sergio Busquets (captain),,34,139,2,0,Spain,Barcelona
+2022,499,Spain,E,Midfielder,Marcos Llorente,,27,17,0,0,Spain,Atlético Madrid
+2022,500,Spain,E,Forward,Álvaro Morata,,30,57,27,0,Spain,Atlético Madrid
+2022,501,Spain,E,Midfielder,Koke,,30,67,0,0,Spain,Atlético Madrid
+2022,502,Spain,E,Midfielder,Gavi,,18,12,1,0,Spain,Barcelona
+2022,503,Spain,E,Forward,Marco Asensio,,26,29,1,0,Spain,Real Madrid
+2022,504,Spain,E,Forward,Ferran Torres,,22,30,13,0,Spain,Barcelona
+2022,505,Spain,E,Forward,Nico Williams,,20,2,0,0,Spain,Athletic Bilbao
+2022,506,Spain,E,Goalkeeper,David Raya,,27,1,0,0,England,Brentford
+2022,507,Spain,E,Defender,José Gayà,,27,18,3,0,Spain,Valencia
+2022,508,Spain,E,Defender,Hugo Guillamón,,22,3,1,0,Spain,Valencia
+2022,509,Spain,E,Midfielder,Rodri,,26,34,1,0,England,Manchester City
+2022,510,Spain,E,Forward,Yeremy Pino,,20,6,1,0,Spain,Villarreal
+2022,511,Spain,E,Defender,Jordi Alba,,33,86,9,0,Spain,Barcelona
+2022,512,Spain,E,Midfielder,Carlos Soler,,25,11,3,0,France,Paris Saint-Germain
+2022,513,Spain,E,Defender,Dani Carvajal,,30,30,0,0,Spain,Real Madrid
+2022,514,Spain,E,Forward,Dani Olmo,,24,24,4,0,Germany,RB Leipzig
+2022,515,Spain,E,Forward,Pablo Sarabia,,30,24,9,0,France,Paris Saint-Germain
+2022,516,Spain,E,Goalkeeper,Unai Simón,,25,27,0,0,Spain,Athletic Bilbao
+2022,517,Spain,E,Defender,Aymeric Laporte,,28,15,1,0,England,Manchester City
+2022,518,Spain,E,Forward,Ansu Fati,,20,4,1,0,Spain,Barcelona
+2022,519,Spain,E,Midfielder,Pedri,,19,14,0,0,Spain,Barcelona
+2022,520,Belgium,F,Goalkeeper,Thibaut Courtois,,30,96,0,0,Spain,Real Madrid
+2022,521,Belgium,F,Defender,Toby Alderweireld,,33,123,5,0,Belgium,Antwerp
+2022,522,Belgium,F,Defender,Arthur Theate,,22,3,0,0,France,Rennes
+2022,523,Belgium,F,Defender,Wout Faes,,24,1,0,0,England,Leicester City
+2022,524,Belgium,F,Defender,Jan Vertonghen,,35,141,9,2,Belgium,Anderlecht
+2022,525,Belgium,F,Midfielder,Axel Witsel,,33,126,12,0,Spain,Atlético Madrid
+2022,526,Belgium,F,Midfielder,Kevin De Bruyne,,31,93,25,2,England,Manchester City
+2022,527,Belgium,F,Midfielder,Youri Tielemans,,25,54,5,0,England,Leicester City
+2022,528,Belgium,F,Forward,Romelu Lukaku,,29,102,68,5,Italy,Internazionale
+2022,529,Belgium,F,Forward,Eden Hazard (captain),,31,122,33,3,Spain,Real Madrid
+2022,530,Belgium,F,Forward,Yannick Carrasco,,29,59,8,0,Spain,Atlético Madrid
+2022,531,Belgium,F,Goalkeeper,Simon Mignolet,,34,35,0,0,Belgium,Club Brugge
+2022,532,Belgium,F,Goalkeeper,Koen Casteels,,30,4,0,0,Germany,VfL Wolfsburg
+2022,533,Belgium,F,Forward,Dries Mertens,,35,106,21,2,Turkey,Galatasaray
+2022,534,Belgium,F,Midfielder,Thomas Meunier,,31,58,8,1,Germany,Borussia Dortmund
+2022,535,Belgium,F,Midfielder,Thorgan Hazard,,29,45,9,0,Germany,Borussia Dortmund
+2022,536,Belgium,F,Forward,Leandro Trossard,,27,21,5,0,England,Brighton & Hove Albion
+2022,537,Belgium,F,Midfielder,Amadou Onana,,21,2,0,0,England,Everton
+2022,538,Belgium,F,Defender,Leander Dendoncker,,27,29,1,0,England,Aston Villa
+2022,539,Belgium,F,Midfielder,Hans Vanaken,,30,22,5,0,Belgium,Club Brugge
+2022,540,Belgium,F,Midfielder,Timothy Castagne,,26,25,2,0,England,Leicester City
+2022,541,Belgium,F,Forward,Charles De Ketelaere,,21,10,1,0,Italy,Milan
+2022,542,Belgium,F,Forward,Michy Batshuayi,,29,47,26,1,Turkey,Fenerbahçe
+2022,543,Belgium,F,Forward,Loïs Openda,,22,4,1,0,France,Lens
+2022,544,Belgium,F,Forward,Jérémy Doku,,20,10,2,0,France,Rennes
+2022,545,Belgium,F,Defender,Zeno Debast,,19,2,0,0,Belgium,Anderlecht
+2022,546,Canada,F,Goalkeeper,Dayne St. Clair,,25,2,0,0,United States,Minnesota United FC
+2022,547,Canada,F,Defender,Alistair Johnston,,24,29,1,0,Canada,CF Montréal
+2022,548,Canada,F,Defender,Sam Adekugbe,,27,33,1,0,Turkey,Hatayspor
+2022,549,Canada,F,Defender,Kamal Miller,,25,28,0,0,Canada,CF Montréal
+2022,550,Canada,F,Defender,Steven Vitória,,35,34,3,0,Portugal,Chaves
+2022,551,Canada,F,Midfielder,Samuel Piette,,28,65,0,0,Canada,CF Montréal
+2022,552,Canada,F,Midfielder,Stephen Eustáquio,,25,26,3,0,Portugal,Porto
+2022,553,Canada,F,Midfielder,Liam Fraser,,24,15,0,0,Belgium,Deinze
+2022,554,Canada,F,Forward,Lucas Cavallini,,29,33,17,0,Canada,Vancouver Whitecaps FC
+2022,555,Canada,F,Midfielder,Junior Hoilett,,32,49,14,0,England,Reading
+2022,556,Canada,F,Forward,Tajon Buchanan,,23,25,4,0,Belgium,Club Brugge
+2022,557,Canada,F,Forward,Iké Ugbo,,24,8,0,0,France,Troyes
+2022,558,Canada,F,Midfielder,Atiba Hutchinson (captain),,39,97,9,0,Turkey,Be?ikta?
+2022,559,Canada,F,Midfielder,Mark-Anthony Kaye,,27,37,2,0,Canada,Toronto FC
+2022,560,Canada,F,Midfielder,Ismaël Koné,,20,5,1,0,Canada,CF Montréal
+2022,561,Canada,F,Goalkeeper,James Pantemis,,25,0,0,0,Canada,CF Montréal
+2022,562,Canada,F,Forward,Cyle Larin,,27,54,25,0,Belgium,Club Brugge
+2022,563,Canada,F,Goalkeeper,Milan Borjan,,35,67,0,0,Serbia,Red Star Belgrade
+2022,564,Canada,F,Forward,Alphonso Davies,,22,34,12,0,Germany,Bayern Munich
+2022,565,Canada,F,Forward,Jonathan David,,22,34,22,0,France,Lille
+2022,566,Canada,F,Midfielder,Jonathan Osorio,,30,56,7,0,Canada,Toronto FC
+2022,567,Canada,F,Defender,Richie Laryea,,27,33,1,0,Canada,Toronto FC
+2022,568,Canada,F,Midfielder,Liam Millar,,23,16,0,0,Switzerland,Basel
+2022,569,Canada,F,Midfielder,David Wotherspoon,,32,10,1,0,Scotland,St Johnstone
+2022,570,Canada,F,Defender,Derek Cornelius,,24,14,0,0,Greece,Panetolikos
+2022,571,Canada,F,Defender,Joel Waterman,,26,1,0,0,Canada,CF Montréal
+2022,572,Croatia,F,Goalkeeper,Dominik Livakovi?,,27,34,0,0,Croatia,Dinamo Zagreb
+2022,573,Croatia,F,Defender,Josip Staniši?,,22,7,0,0,Germany,Bayern Munich
+2022,574,Croatia,F,Defender,Borna Bariši?,,30,28,1,0,Scotland,Rangers
+2022,575,Croatia,F,Forward,Ivan Periši?,,33,116,32,5,England,Tottenham Hotspur
+2022,576,Croatia,F,Defender,Martin Erli?,,24,4,0,0,Italy,Sassuolo
+2022,577,Croatia,F,Defender,Dejan Lovren,,33,72,5,0,Russia,Zenit Saint Petersburg
+2022,578,Croatia,F,Midfielder,Lovro Majer,,24,11,3,0,France,Rennes
+2022,579,Croatia,F,Midfielder,Mateo Kova?i?,,28,84,3,0,England,Chelsea
+2022,580,Croatia,F,Forward,Andrej Kramari?,,31,74,20,1,Germany,1899 Hoffenheim
+2022,581,Croatia,F,Midfielder,Luka Modri? (captain),,37,155,23,2,Spain,Real Madrid
+2022,582,Croatia,F,Midfielder,Marcelo Brozovi?,,30,77,7,0,Italy,Internazionale
+2022,583,Croatia,F,Goalkeeper,Ivo Grbi?,,26,2,0,0,Spain,Atlético Madrid
+2022,584,Croatia,F,Midfielder,Nikola Vlaši?,,25,42,7,0,Italy,Torino
+2022,585,Croatia,F,Forward,Marko Livaja,,29,14,3,0,Croatia,Hajduk Split
+2022,586,Croatia,F,Midfielder,Mario Pašali?,,27,43,7,0,Italy,Atalanta
+2022,587,Croatia,F,Forward,Bruno Petkovi?,,28,23,6,0,Croatia,Dinamo Zagreb
+2022,588,Croatia,F,Forward,Ante Budimir,,31,15,1,0,Spain,Osasuna
+2022,589,Croatia,F,Forward,Mislav Orši?,,29,21,1,0,Croatia,Dinamo Zagreb
+2022,590,Croatia,F,Defender,Borna Sosa,,24,8,1,0,Germany,VfB Stuttgart
+2022,591,Croatia,F,Defender,Joško Gvardiol,,20,12,1,0,Germany,RB Leipzig
+2022,592,Croatia,F,Defender,Domagoj Vida,,33,100,4,1,Greece,AEK Athens
+2022,593,Croatia,F,Defender,Josip Juranovi?,,27,21,0,0,Scotland,Celtic
+2022,594,Croatia,F,Goalkeeper,Ivica Ivuši?,,27,5,0,0,Croatia,Osijek
+2022,595,Croatia,F,Defender,Josip Šutalo,,22,3,0,0,Croatia,Dinamo Zagreb
+2022,596,Croatia,F,Midfielder,Luka Su?i?,,20,4,0,0,Austria,Red Bull Salzburg
+2022,597,Croatia,F,Midfielder,Kristijan Jaki?,,25,4,0,0,Germany,Eintracht Frankfurt
+2022,598,Morocco,F,Goalkeeper,Yassine Bounou,,31,45,0,0,Spain,Sevilla
+2022,599,Morocco,F,Defender,Achraf Hakimi,,24,53,8,0,France,Paris Saint-Germain
+2022,600,Morocco,F,Defender,Noussair Mazraoui,,25,14,2,0,Germany,Bayern Munich
+2022,601,Morocco,F,Midfielder,Sofyan Amrabat,,26,38,0,0,Italy,Fiorentina
+2022,602,Morocco,F,Defender,Nayef Aguerd,,26,21,1,0,England,West Ham United
+2022,603,Morocco,F,Defender,Romain Saïss (captain),,32,65,1,0,Turkey,Be?ikta?
+2022,604,Morocco,F,Midfielder,Hakim Ziyech,,29,42,17,0,England,Chelsea
+2022,605,Morocco,F,Midfielder,Azzedine Ounahi,,22,9,2,0,France,Angers
+2022,606,Morocco,F,Forward,Abderrazak Hamdallah,,31,17,6,0,Saudi Arabia,Al-Ittihad
+2022,607,Morocco,F,Midfielder,Amine Harit,,25,16,0,0,France,Marseille
+2022,608,Morocco,F,Forward,Abdelhamid Sabiri,,25,2,1,0,Italy,Sampdoria
+2022,609,Morocco,F,Goalkeeper,Munir Mohamedi,,33,43,0,0,Saudi Arabia,Al-Wehda
+2022,610,Morocco,F,Midfielder,Ilias Chair,,25,10,1,0,England,Queens Park Rangers
+2022,611,Morocco,F,Midfielder,Zakaria Aboukhlal,,22,12,2,0,France,Toulouse
+2022,612,Morocco,F,Midfielder,Selim Amallah,,26,23,4,0,Belgium,Standard Liège
+2022,613,Morocco,F,Forward,Abde Ezzalzouli,,20,2,0,0,Spain,Osasuna
+2022,614,Morocco,F,Midfielder,Sofiane Boufal,,29,31,5,0,France,Angers
+2022,615,Morocco,F,Defender,Jawad El Yamiq,,30,11,2,0,Spain,Valladolid
+2022,616,Morocco,F,Forward,Youssef En-Nesyri,,25,49,14,1,Spain,Sevilla
+2022,617,Morocco,F,Defender,Achraf Dari,,23,4,0,0,France,Brest
+2022,618,Morocco,F,Forward,Walid Cheddira,,24,2,0,0,Italy,Bari
+2022,619,Morocco,F,Goalkeeper,Ahmed Reda Tagnaouti,,26,3,0,0,Morocco,Wydad AC
+2022,620,Morocco,F,Midfielder,Bilal El Khannous,,18,0,0,0,Belgium,Genk
+2022,621,Morocco,F,Defender,Badr Benoun,,29,3,0,0,Qatar,Qatar SC
+2022,622,Morocco,F,Defender,Yahia Attiyat Allah,,27,1,0,0,Morocco,Wydad AC
+2022,623,Morocco,F,Midfielder,Yahya Jabrane,,31,4,0,0,Morocco,Wydad AC
+2022,624,Brazil,G,Goalkeeper,Alisson,,30,57,0,0,England,Liverpool
+2022,625,Brazil,G,Defender,Danilo,,31,46,1,0,Italy,Juventus
+2022,626,Brazil,G,Defender,Thiago Silva (captain),,38,109,7,2,England,Chelsea
+2022,627,Brazil,G,Defender,Marquinhos,,28,71,5,0,France,Paris Saint-Germain
+2022,628,Brazil,G,Midfielder,Casemiro,,30,65,5,0,England,Manchester United
+2022,629,Brazil,G,Defender,Alex Sandro,,31,37,2,0,Italy,Juventus
+2022,630,Brazil,G,Midfielder,Lucas Paquetá,,25,35,7,0,England,West Ham United
+2022,631,Brazil,G,Midfielder,Fred,,29,28,0,2,England,Manchester United
+2022,632,Brazil,G,Forward,Richarlison,,25,38,17,0,England,Tottenham Hotspur
+2022,633,Brazil,G,Forward,Neymar,,30,121,75,6,France,Paris Saint-Germain
+2022,634,Brazil,G,Forward,Raphinha,,25,11,5,0,Spain,Barcelona
+2022,635,Brazil,G,Goalkeeper,Weverton,,34,8,0,0,Brazil,Palmeiras
+2022,636,Brazil,G,Defender,Dani Alves,,39,124,8,0,Mexico,UNAM
+2022,637,Brazil,G,Defender,Éder Militão,,24,23,1,0,Spain,Real Madrid
+2022,638,Brazil,G,Midfielder,Fabinho,,29,28,0,0,England,Liverpool
+2022,639,Brazil,G,Defender,Alex Telles,,29,8,0,0,Spain,Sevilla
+2022,640,Brazil,G,Midfielder,Bruno Guimarães,,25,8,1,0,England,Newcastle United
+2022,641,Brazil,G,Forward,Gabriel Jesus,,25,56,19,0,England,Arsenal
+2022,642,Brazil,G,Forward,Antony,,22,11,2,0,England,Manchester United
+2022,643,Brazil,G,Forward,Vinícius Júnior,,22,16,1,0,Spain,Real Madrid
+2022,644,Brazil,G,Forward,Rodrygo,,21,5,1,0,Spain,Real Madrid
+2022,645,Brazil,G,Midfielder,Éverton Ribeiro,,33,21,3,0,Brazil,Flamengo
+2022,646,Brazil,G,Goalkeeper,Ederson,,29,18,0,0,England,Manchester City
+2022,647,Brazil,G,Defender,Bremer,,25,1,0,0,Italy,Juventus
+2022,648,Brazil,G,Forward,Pedro,,25,2,1,0,Brazil,Flamengo
+2022,649,Brazil,G,Forward,Gabriel Martinelli,,21,3,0,0,England,Arsenal
+2022,650,Cameroon,G,Goalkeeper,Simon Ngapandouetnbu,,19,0,0,0,France,Marseille
+2022,651,Cameroon,G,Defender,Jerome Ngom Mbekeli,,24,0,0,0,Cameroon,Colombe Sportive
+2022,652,Cameroon,G,Defender,Nicolas Nkoulou,,32,76,2,0,Greece,Aris
+2022,653,Cameroon,G,Defender,Christopher Wooh,,21,1,0,0,France,Rennes
+2022,654,Cameroon,G,Midfielder,Gaël Ondoua,,27,3,0,0,Germany,Hannover 96
+2022,655,Cameroon,G,Forward,Moumi Ngamaleu,,28,41,4,0,Russia,Dynamo Moscow
+2022,656,Cameroon,G,Midfielder,Georges-Kévin Nkoudou,,27,1,0,0,Turkey,Be?ikta?
+2022,657,Cameroon,G,Midfielder,André-Frank Zambo Anguissa,,27,42,5,0,Italy,Napoli
+2022,658,Cameroon,G,Forward,Jean-Pierre Nsame,,29,3,0,0,Switzerland,Young Boys
+2022,659,Cameroon,G,Forward,Vincent Aboubakar (captain),,30,88,33,0,Saudi Arabia,Al-Nassr
+2022,660,Cameroon,G,Forward,Christian Bassogog,,27,42,7,0,China,Shanghai Shenhua
+2022,661,Cameroon,G,Forward,Karl Toko Ekambi,,30,50,12,0,France,Lyon
+2022,662,Cameroon,G,Forward,Eric Maxim Choupo-Moting,,33,68,18,0,Germany,Bayern Munich
+2022,663,Cameroon,G,Midfielder,Samuel Gouet,,24,21,0,0,Belgium,Mechelen
+2022,664,Cameroon,G,Midfielder,Pierre Kunde,,27,30,1,0,Greece,Olympiacos
+2022,665,Cameroon,G,Goalkeeper,Devis Epassy,,29,5,0,0,Saudi Arabia,Abha
+2022,666,Cameroon,G,Defender,Olivier Mbaizo,,25,11,0,0,United States,Philadelphia Union
+2022,667,Cameroon,G,Midfielder,Martin Hongla,,24,17,0,0,Italy,Hellas Verona
+2022,668,Cameroon,G,Defender,Collins Fai,,30,50,0,0,Saudi Arabia,Al-Tai
+2022,669,Cameroon,G,Forward,Bryan Mbeumo,,23,1,0,0,England,Brentford
+2022,670,Cameroon,G,Defender,Jean-Charles Castelletto,,27,12,0,0,France,Nantes
+2022,671,Cameroon,G,Midfielder,Olivier Ntcham,,26,2,0,0,Wales,Swansea City
+2022,672,Cameroon,G,Goalkeeper,André Onana,,26,31,0,0,Italy,Internazionale
+2022,673,Cameroon,G,Defender,Enzo Ebosse,,23,1,0,0,Italy,Udinese
+2022,674,Cameroon,G,Defender,Nouhou Tolo,,25,16,0,0,United States,Seattle Sounders FC
+2022,675,Cameroon,G,Midfielder,Souaibou Marou,,21,0,0,0,Cameroon,Coton Sport
+2022,676,Serbia,G,Goalkeeper,Marko Dmitrovi?,,30,19,0,0,Spain,Sevilla
+2022,677,Serbia,G,Defender,Strahinja Pavlovi?,,21,21,1,0,Austria,Red Bull Salzburg
+2022,678,Serbia,G,Defender,Strahinja Erakovi?,,21,1,0,0,Serbia,Red Star Belgrade
+2022,679,Serbia,G,Defender,Nikola Milenkovi?,,25,37,3,0,Italy,Fiorentina
+2022,680,Serbia,G,Defender,Miloš Veljkovi?,,27,21,0,0,Germany,Werder Bremen
+2022,681,Serbia,G,Midfielder,Nemanja Maksimovi?,,27,39,0,0,Spain,Getafe
+2022,682,Serbia,G,Forward,Nemanja Radonji?,,26,36,5,0,Italy,Torino
+2022,683,Serbia,G,Midfielder,Nemanja Gudelj,,31,48,1,0,Spain,Sevilla
+2022,684,Serbia,G,Forward,Aleksandar Mitrovi?,,28,76,50,1,England,Fulham
+2022,685,Serbia,G,Forward,Dušan Tadi? (captain),,34,90,18,0,Netherlands,Ajax
+2022,686,Serbia,G,Forward,Luka Jovi?,,24,28,9,0,Italy,Fiorentina
+2022,687,Serbia,G,Goalkeeper,Predrag Rajkovi?,,27,28,0,0,Spain,Mallorca
+2022,688,Serbia,G,Defender,Stefan Mitrovi?,,32,34,0,0,Spain,Getafe
+2022,689,Serbia,G,Midfielder,Andrija Živkovi?,,26,28,1,0,Greece,PAOK
+2022,690,Serbia,G,Defender,Sr?an Babi?,,26,2,0,0,Spain,Almería
+2022,691,Serbia,G,Midfielder,Saša Luki?,,26,32,2,0,Italy,Torino
+2022,692,Serbia,G,Midfielder,Filip Kosti?,,30,50,3,0,Italy,Juventus
+2022,693,Serbia,G,Forward,Dušan Vlahovi?,,22,16,8,0,Italy,Juventus
+2022,694,Serbia,G,Midfielder,Uroš Ra?i?,,24,9,0,0,Portugal,Braga
+2022,695,Serbia,G,Midfielder,Sergej Milinkovi?-Savi?,,27,35,6,0,Italy,Lazio
+2022,696,Serbia,G,Forward,Filip ?uri?i?,,30,36,4,0,Italy,Sampdoria
+2022,697,Serbia,G,Midfielder,Darko Lazovi?,,32,25,0,0,Italy,Hellas Verona
+2022,698,Serbia,G,Goalkeeper,Vanja Milinkovi?-Savi?,,25,6,0,0,Italy,Torino
+2022,699,Serbia,G,Midfielder,Ivan Ili?,,21,5,0,0,Italy,Hellas Verona
+2022,700,Serbia,G,Defender,Filip Mladenovi?,,31,19,1,0,Poland,Legia Warsaw
+2022,701,Serbia,G,Midfielder,Marko Gruji?,,26,17,0,0,Portugal,Porto
+2022,702,Switzerland,G,Goalkeeper,Yann Sommer,,33,76,0,0,Germany,Borussia Mönchengladbach
+2022,703,Switzerland,G,Defender,Edimilson Fernandes,,26,22,2,0,Germany,Mainz 05
+2022,704,Switzerland,G,Defender,Silvan Widmer,,29,33,2,0,Germany,Mainz 05
+2022,705,Switzerland,G,Defender,Nico Elvedi,,26,40,1,0,Germany,Borussia Mönchengladbach
+2022,706,Switzerland,G,Defender,Manuel Akanji,,27,42,1,0,England,Manchester City
+2022,707,Switzerland,G,Midfielder,Denis Zakaria,,26,42,3,0,England,Chelsea
+2022,708,Switzerland,G,Forward,Breel Embolo,,25,58,11,0,France,Monaco
+2022,709,Switzerland,G,Midfielder,Remo Freuler,,30,48,5,0,England,Nottingham Forest
+2022,710,Switzerland,G,Forward,Haris Seferovic,,30,88,25,1,Turkey,Galatasaray
+2022,711,Switzerland,G,Midfielder,Granit Xhaka (captain),,30,106,12,2,England,Arsenal
+2022,712,Switzerland,G,Defender,Renato Steffen,,31,27,1,0,Switzerland,Lugano
+2022,713,Switzerland,G,Goalkeeper,Jonas Omlin,,28,4,0,0,France,Montpellier
+2022,714,Switzerland,G,Defender,Ricardo Rodriguez,,30,100,9,0,Italy,Torino
+2022,715,Switzerland,G,Midfielder,Michel Aebischer,,25,11,0,0,Italy,Bologna
+2022,716,Switzerland,G,Midfielder,Djibril Sow,,25,32,0,0,Germany,Eintracht Frankfurt
+2022,717,Switzerland,G,Midfielder,Christian Fassnacht,,29,15,4,0,Switzerland,Young Boys
+2022,718,Switzerland,G,Forward,Ruben Vargas,,24,26,4,0,Germany,FC Augsburg
+2022,719,Switzerland,G,Defender,Eray Cömert,,24,9,0,0,Spain,Valencia
+2022,720,Switzerland,G,Forward,Noah Okafor,,22,8,2,0,Austria,Red Bull Salzburg
+2022,721,Switzerland,G,Midfielder,Fabian Frei,,33,22,3,0,Switzerland,Basel
+2022,722,Switzerland,G,Goalkeeper,Gregor Kobel,,24,3,0,0,Germany,Borussia Dortmund
+2022,723,Switzerland,G,Defender,Fabian Schär,,30,72,8,0,England,Newcastle United
+2022,724,Switzerland,G,Midfielder,Xherdan Shaqiri,,31,108,26,4,United States,Chicago Fire FC
+2022,725,Switzerland,G,Goalkeeper,Philipp Köhn,,24,0,0,0,Austria,Red Bull Salzburg
+2022,726,Switzerland,G,Midfielder,Fabian Rieder,,20,0,0,0,Switzerland,Young Boys
+2022,727,Switzerland,G,Midfielder,Ardon Jashari,,20,1,0,0,Switzerland,Luzern
+2022,728,Ghana,H,Goalkeeper,Lawrence Ati-Zigi,,25,10,0,0,Switzerland,St. Gallen
+2022,729,Ghana,H,Defender,Tariq Lamptey,,22,1,0,0,England,Brighton & Hove Albion
+2022,730,Ghana,H,Defender,Denis Odoi,,34,4,0,0,Belgium,Club Brugge
+2022,731,Ghana,H,Defender,Mohammed Salisu,,23,1,0,0,England,Southampton
+2022,732,Ghana,H,Midfielder,Thomas Partey,,29,40,14,0,England,Arsenal
+2022,733,Ghana,H,Midfielder,Elisha Owusu,,25,2,0,0,Belgium,Gent
+2022,734,Ghana,H,Midfielder,Abdul Fatawu Issahaku,,18,11,0,0,Portugal,Sporting CP
+2022,735,Ghana,H,Midfielder,Daniel-Kofi Kyereh,,26,12,0,0,Germany,SC Freiburg
+2022,736,Ghana,H,Forward,Jordan Ayew,,31,82,20,0,England,Crystal Palace
+2022,737,Ghana,H,Forward,André Ayew (captain),,32,107,23,2,Qatar,Al-Sadd
+2022,738,Ghana,H,Midfielder,Osman Bukari,,23,5,1,0,Serbia,Red Star Belgrade
+2022,739,Ghana,H,Goalkeeper,Ibrahim Danlad,,19,0,0,0,Ghana,Asante Kotoko
+2022,740,Ghana,H,Midfielder,Daniel Afriyie,,21,1,0,0,Ghana,Hearts of Oak
+2022,741,Ghana,H,Defender,Gideon Mensah,,24,10,0,0,France,Auxerre
+2022,742,Ghana,H,Defender,Joseph Aidoo,,27,10,0,0,Spain,Celta Vigo
+2022,743,Ghana,H,Goalkeeper,Abdul Manaf Nurudeen,,23,2,0,0,Belgium,Eupen
+2022,744,Ghana,H,Defender,Baba Rahman,,28,47,1,0,England,Reading
+2022,745,Ghana,H,Defender,Daniel Amartey,,27,43,0,0,England,Leicester City
+2022,746,Ghana,H,Forward,Iñaki Williams,,28,2,0,0,Spain,Athletic Bilbao
+2022,747,Ghana,H,Midfielder,Mohammed Kudus,,22,16,4,0,Netherlands,Ajax
+2022,748,Ghana,H,Midfielder,Salis Abdul Samed,,22,0,0,0,France,Lens
+2022,749,Ghana,H,Midfielder,Kamaldeen Sulemana,,20,11,0,0,France,Rennes
+2022,750,Ghana,H,Defender,Alexander Djiku,,28,18,1,0,France,Strasbourg
+2022,751,Ghana,H,Midfielder,Kamal Sowah,,22,0,0,0,Belgium,Club Brugge
+2022,752,Ghana,H,Forward,Antoine Semenyo,,22,1,0,0,England,Bristol City
+2022,753,Ghana,H,Defender,Alidu Seidu,,22,2,0,0,France,Clermont
+2022,754,Portugal,H,Goalkeeper,Rui Patrício,,34,104,0,0,Italy,Roma
+2022,755,Portugal,H,Defender,Diogo Dalot,,23,6,2,0,England,Manchester United
+2022,756,Portugal,H,Defender,Pepe,,39,128,7,1,Portugal,Porto
+2022,757,Portugal,H,Defender,Rúben Dias,,25,39,2,0,England,Manchester City
+2022,758,Portugal,H,Defender,Raphaël Guerreiro,,28,56,3,0,Germany,Borussia Dortmund
+2022,759,Portugal,H,Midfielder,João Palhinha,,27,15,2,0,England,Fulham
+2022,760,Portugal,H,Forward,Cristiano Ronaldo (captain),,37,191,117,7,England,Manchester United
+2022,761,Portugal,H,Midfielder,Bruno Fernandes,,28,48,9,0,England,Manchester United
+2022,762,Portugal,H,Forward,André Silva,,27,51,19,0,Germany,RB Leipzig
+2022,763,Portugal,H,Forward,Bernardo Silva,,28,72,8,0,England,Manchester City
+2022,764,Portugal,H,Forward,João Félix,,23,23,3,0,Spain,Atlético Madrid
+2022,765,Portugal,H,Goalkeeper,José Sá,,29,0,0,0,England,Wolverhampton Wanderers
+2022,766,Portugal,H,Defender,Danilo Pereira,,31,63,2,0,France,Paris Saint-Germain
+2022,767,Portugal,H,Midfielder,William Carvalho,,30,75,5,0,Spain,Real Betis
+2022,768,Portugal,H,Forward,Rafael Leão,,23,11,0,0,Italy,Milan
+2022,769,Portugal,H,Midfielder,Vitinha,,22,4,0,0,France,Paris Saint-Germain
+2022,770,Portugal,H,Midfielder,João Mário,,29,52,2,0,Portugal,Benfica
+2022,771,Portugal,H,Midfielder,Rúben Neves,,25,32,0,0,England,Wolverhampton Wanderers
+2022,772,Portugal,H,Defender,Nuno Mendes,,20,16,0,0,France,Paris Saint-Germain
+2022,773,Portugal,H,Defender,João Cancelo,,28,37,7,0,England,Manchester City
+2022,774,Portugal,H,Forward,Ricardo Horta,,28,5,1,0,Portugal,Braga
+2022,775,Portugal,H,Goalkeeper,Diogo Costa,,23,7,0,0,Portugal,Porto
+2022,776,Portugal,H,Midfielder,Matheus Nunes,,24,9,1,0,England,Wolverhampton Wanderers
+2022,777,Portugal,H,Defender,António Silva,,19,0,0,0,Portugal,Benfica
+2022,778,Portugal,H,Midfielder,Otávio,,27,7,2,0,Portugal,Porto
+2022,779,Portugal,H,Forward,Gonçalo Ramos,,21,0,0,0,Portugal,Benfica
+2022,780,South Korea,H,Goalkeeper,Kim Seung-gyu,,32,67,0,0,Saudi Arabia,Al-Shabab
+2022,781,South Korea,H,Defender,Yoon Jong-gyu,,24,4,0,0,South Korea,FC Seoul
+2022,782,South Korea,H,Defender,Kim Jin-su,,30,61,2,0,South Korea,Jeonbuk Hyundai Motors
+2022,783,South Korea,H,Defender,Kim Min-jae,,26,44,3,0,Italy,Napoli
+2022,784,South Korea,H,Midfielder,Jung Woo-young,,32,66,3,0,Qatar,Al-Sadd
+2022,785,South Korea,H,Midfielder,Hwang In-beom,,26,37,4,0,Greece,Olympiacos
+2022,786,South Korea,H,Midfielder,Son Heung-min (captain),,30,104,35,3,England,Tottenham Hotspur
+2022,787,South Korea,H,Midfielder,Paik Seung-ho,,25,14,2,0,South Korea,Jeonbuk Hyundai Motors
+2022,788,South Korea,H,Forward,Cho Gue-sung,,24,16,4,0,South Korea,Jeonbuk Hyundai Motors
+2022,789,South Korea,H,Midfielder,Lee Jae-sung,,30,64,9,0,Germany,Mainz 05
+2022,790,South Korea,H,Midfielder,Hwang Hee-chan,,26,49,9,0,England,Wolverhampton Wanderers
+2022,791,South Korea,H,Goalkeeper,Song Bum-keun,,25,1,0,0,South Korea,Jeonbuk Hyundai Motors
+2022,792,South Korea,H,Midfielder,Son Jun-ho,,30,15,0,0,China,Shandong Taishan
+2022,793,South Korea,H,Defender,Hong Chul,,32,46,1,0,South Korea,Daegu FC
+2022,794,South Korea,H,Defender,Kim Moon-hwan,,27,22,0,0,South Korea,Jeonbuk Hyundai Motors
+2022,795,South Korea,H,Forward,Hwang Ui-jo,,30,49,16,0,Greece,Olympiacos
+2022,796,South Korea,H,Midfielder,Na Sang-ho,,26,24,2,0,South Korea,FC Seoul
+2022,797,South Korea,H,Midfielder,Lee Kang-in,,21,6,0,0,Spain,Mallorca
+2022,798,South Korea,H,Defender,Kim Young-gwon,,32,96,6,1,South Korea,Ulsan Hyundai
+2022,799,South Korea,H,Defender,Kwon Kyung-won,,30,28,2,0,Japan,Gamba Osaka
+2022,800,South Korea,H,Goalkeeper,Jo Hyeon-woo,,31,22,0,0,South Korea,Ulsan Hyundai
+2022,801,South Korea,H,Midfielder,Kwon Chang-hoon,,28,42,12,0,South Korea,Gimcheon Sangmu
+2022,802,South Korea,H,Defender,Kim Tae-hwan,,33,19,0,0,South Korea,Ulsan Hyundai
+2022,803,South Korea,H,Defender,Cho Yu-min,,26,4,0,0,South Korea,Daejeon Hana Citizen
+2022,804,South Korea,H,Midfielder,Jeong Woo-yeong,,23,9,2,0,Germany,SC Freiburg
+2022,805,South Korea,H,Midfielder,Song Min-kyu,,23,13,1,0,South Korea,Jeonbuk Hyundai Motors
+2022,806,Uruguay,H,Goalkeeper,Fernando Muslera,,36,133,0,0,Turkey,Galatasaray
+2022,807,Uruguay,H,Defender,José Giménez,,27,78,8,1,Spain,Atlético Madrid
+2022,808,Uruguay,H,Defender,Diego Godín (captain),,36,159,8,1,Argentina,Vélez Sarsfield
+2022,809,Uruguay,H,Defender,Ronald Araújo,,23,12,0,0,Spain,Barcelona
+2022,810,Uruguay,H,Midfielder,Matías Vecino,,31,62,4,0,Italy,Lazio
+2022,811,Uruguay,H,Midfielder,Rodrigo Bentancur,,25,51,1,0,England,Tottenham Hotspur
+2022,812,Uruguay,H,Midfielder,Nicolás de la Cruz,,25,17,2,0,Argentina,River Plate
+2022,813,Uruguay,H,Forward,Facundo Pellistri,,20,7,0,0,England,Manchester United
+2022,814,Uruguay,H,Forward,Luis Suárez,,35,134,68,7,Uruguay,Nacional
+2022,815,Uruguay,H,Midfielder,Giorgian de Arrascaeta,,28,40,8,0,Brazil,Flamengo
+2022,816,Uruguay,H,Forward,Darwin Núñez,,23,13,3,0,England,Liverpool
+2022,817,Uruguay,H,Goalkeeper,Sebastián Sosa,,36,1,0,0,Argentina,Independiente
+2022,818,Uruguay,H,Defender,Guillermo Varela,,29,9,0,0,Brazil,Flamengo
+2022,819,Uruguay,H,Midfielder,Lucas Torreira,,26,40,0,0,Turkey,Galatasaray
+2022,820,Uruguay,H,Midfielder,Federico Valverde,,24,44,4,0,Spain,Real Madrid
+2022,821,Uruguay,H,Defender,Mathías Olivera,,25,8,0,0,Italy,Napoli
+2022,822,Uruguay,H,Defender,Matías Viña,,25,26,0,0,Italy,Roma
+2022,823,Uruguay,H,Forward,Maxi Gómez,,26,27,4,0,Turkey,Trabzonspor
+2022,824,Uruguay,H,Defender,Sebastián Coates,,32,47,1,0,Portugal,Sporting CP
+2022,825,Uruguay,H,Forward,Facundo Torres,,22,10,0,0,United States,Orlando City SC
+2022,826,Uruguay,H,Forward,Edinson Cavani,,35,133,58,5,Spain,Valencia
+2022,827,Uruguay,H,Defender,Martín Cáceres,,35,115,4,0,United States,LA Galaxy
+2022,828,Uruguay,H,Goalkeeper,Sergio Rochet,,29,8,0,0,Uruguay,Nacional
+2022,829,Uruguay,H,Midfielder,Agustín Canobbio,,24,3,0,0,Brazil,Athletico Paranaense
+2022,830,Uruguay,H,Midfielder,Manuel Ugarte,,21,6,0,0,Portugal,Sporting CP
+2022,831,Uruguay,H,Defender,José Luis Rodríguez,,25,0,0,0,Uruguay,Nacional
